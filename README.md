@@ -8,6 +8,7 @@ ___
 ___
 <p align="center">
 Below is the overall system navigation hierarchy.
+<br>
 <img src="http://i.imgur.com/IgdZJus.png"/>
 </p>
 
@@ -48,5 +49,6 @@ Text here
 ____
 <p align="center">
 Below is the ERD diagram for the system.
+<br>
 <img src="http://i.imgur.com/TkQDNmj.png"/>
 </p>
