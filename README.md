@@ -2,12 +2,11 @@
 
 _MyGCSEMaths_ is a virtual learning system aimed at GCSE Maths students. This was a system I created in 2014 as part of my Computing Unit 4 Project for my sixth form college.
 
-___
-
 ### System navigation
 ___
 <p align="center">
 Below is the overall system navigation hierarchy.
+<br>
 <br>
 <img src="http://i.imgur.com/IgdZJus.png"/>
 </p>
@@ -49,6 +48,7 @@ Text here
 ____
 <p align="center">
 Below is the ERD diagram for the system.
+<br>
 <br>
 <img src="http://i.imgur.com/TkQDNmj.png"/>
 </p>
