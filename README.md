@@ -6,9 +6,9 @@ ___
 
 ### System navigation
 ___
-
 <p align="center">
-Insert
+Below is the overall system navigation hierarchy.
+<img src="http://i.imgur.com/IgdZJus.png"/>
 <br>
 </p>
 
