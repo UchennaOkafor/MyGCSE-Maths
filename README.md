@@ -9,9 +9,9 @@ ___
 <p align="center">
 Below is the overall system navigation hierarchy.
 <img src="http://i.imgur.com/IgdZJus.png"/>
-<br>
 </p>
 
+<br>
 ### Login panel
 ___
 <br>
@@ -46,7 +46,7 @@ Text here
 
 ### Entity relation diagram
 ____
-The diagram.
-
+<p align="center">
+Below is the ERD diagram for the system.
 <img src="http://i.imgur.com/TkQDNmj.png"/>
 </p>
